@@ -1,2 +1,2 @@
 # hello-world
-first repository
+Wilbert Silverio aspiring to be a dev ops.
